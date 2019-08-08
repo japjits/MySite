@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Candara;
+
+}
+
+h1 {
+  margin-top: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.top-container {
+  background-color: #a4d7e1;
+
+}
+
+.middle-container {
+  background-color: #f0dab1;
+
+}
+
+.bottom-container {
+  background-color: #cf455c;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px
+}
+.Sports-image{
+  width: 500px;
+  
+
+}
